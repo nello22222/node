@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nello22222/node/issues"
   },
-  "homepage": "https://github.com/nello22222/node#readme"
+  "homepage": "https://github.com/nello22222/node#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
